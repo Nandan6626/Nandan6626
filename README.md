@@ -1,4 +1,4 @@
-## Hi there 👋
+##Software Developer | Python, FastAPI, React & SQL | AI/ML Enthusiast | Building Scalable, Real-World Applications
 
 <!--
 **Nandan6626/Nandan6626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
